@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a bioinformatician working with Prof. Goriely on "selfish" mutations and triplet repeat expansion. My  projects focus on analysing ultra-deep short/long read sequencing data aiming to identify ultra-low level mutations in germline tissues.
+I am a bioinformatician working with Prof. Goriely on "selfish" mutations and triplet repeat expansion. My projects focus on analysing ultra-deep short/long read sequencing data aiming to identify ultra-low level mutations in germline tissues.
 
 Previously, I was a DPhil Medical Sciences student supervised by Prof. Andrew Wilkie and Prof. Stephen Twigg. My research involved characterising structural variants (SVs) in patients with craniosynostosis using various genomic and molecular approaches, including Illumina/Nanopore whole genome sequencing and Bionano Optical Genome Mapping (OGM).
 
