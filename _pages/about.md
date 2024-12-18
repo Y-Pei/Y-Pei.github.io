@@ -15,7 +15,7 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-latest: false
+blog: false
 ---
 
 I am a bioinformatician working with Prof. Goriely on "selfish" mutations and triplet repeat expansion. My projects focus on analysing ultra-deep short/long read sequencing data aiming to identify ultra-low level mutations in germline tissues.
