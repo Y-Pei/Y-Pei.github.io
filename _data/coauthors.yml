@@ -1,5 +1,5 @@
 "wilkie":
-  - firstname: ["Andrew", "A.", "A. OM.", "Andrew OM"]
+  - firstname: ["Andrew", "A.", "A. OM.", "A. O. M.", "Andrew OM"]
     url: https://www.rdm.ox.ac.uk/people/andrew-wilkie
 
 "podolsky":
@@ -25,9 +25,9 @@
   - firstname: ["Erwin"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"consortium":
-  - firstname: ["Genomics England Research"]
-    url: https://www.genomicsengland.co.uk/
+"Calpena":
+  - firstname: ["Eduardo"]
+    url: https://scholar.google.es/citations?user=3n-J_-IAAAAJ&hl=en
 
 "planck":
   - firstname: ["Max"]
