@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined MRC WIMM Goriely Group: Clinical genetics!
+Joined MRC WIMM Goriely Group: Clinical genetics as a Postdoctoral Bioinformatician!
