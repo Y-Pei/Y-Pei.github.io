@@ -1,6 +1,6 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"wilkie":
+  - firstname: ["Andrew", "A.", "A. OM.", "Andrew OM"]
+    url: https://www.rdm.ox.ac.uk/people/andrew-wilkie
 
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
@@ -25,9 +25,9 @@
   - firstname: ["Erwin"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"consortium":
+  - firstname: ["Genomics England Research"]
+    url: https://www.genomicsengland.co.uk/
 
 "planck":
   - firstname: ["Max"]
