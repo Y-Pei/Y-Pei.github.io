@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MRC WIMM, University of Oxford</p>
-    <p>Oxford, UK OX3 9DS</p>
+    <p>MRC WIMM</p>
+    <p>University of Oxford</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
